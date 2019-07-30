@@ -1,0 +1,10 @@
+2019-07-30 12:47:17,925 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\albehera\Desktop\MavenDemo\Maven\mavenDemo\pom.xml
+2019-07-30 12:47:19,385 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.alokesh:mavenDemo:0.0.1-SNAPSHOT @ C:\Users\albehera\Desktop\MavenDemo\Maven\mavenDemo\pom.xml.
+2019-07-30 12:47:20,720 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mavenDemo/src/main/java
+2019-07-30 12:47:20,730 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mavenDemo/src/test/java
+2019-07-30 12:47:21,918 [Worker-7] INFO  n.t.m.s.i.ProjectSettingsConfigurator - Could not set eclipse settings, consider org.apache.maven.plugins:maven-eclipse-plugin!
+2019-07-30 12:47:21,985 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2019-07-30 12:47:22,759 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-30 12:47:22,760 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\albehera\Desktop\MavenDemo\Maven\mavenDemo\src\main\resources
+2019-07-30 12:47:22,762 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-30 12:47:22,763 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\albehera\Desktop\MavenDemo\Maven\mavenDemo\src\test\resources
